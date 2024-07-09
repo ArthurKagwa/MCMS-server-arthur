@@ -82,14 +82,7 @@ public class Participant {
                 }else {
                     Main.server.printWriter.println("invalid challenge");
                 }
-
-
-
-
-
-                }
-
-                start();
+   start();
             }
 
         } catch (IOException e) {
